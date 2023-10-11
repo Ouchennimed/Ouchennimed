@@ -25,7 +25,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I'm a student in computer sciences 」
+    「 I'm computer sciences student 」
     <br>
     <br>
   </samp>
